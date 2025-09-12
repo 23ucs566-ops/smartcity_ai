@@ -1,1 +1,0 @@
-# smartcity_ai
